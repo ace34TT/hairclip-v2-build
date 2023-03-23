@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6c57161c.css",
+    "main.js": "/static/js/main.ee3a19b3.js",
+    "static/js/787.aca1eac2.chunk.js": "/static/js/787.aca1eac2.chunk.js",
+    "static/media/HairClip PackS HD-25-min.webp": "/static/media/HairClip PackS HD-25-min.f33e1268faa267553050.webp",
+    "static/media/HairClip PackS HD-24-min.webp": "/static/media/HairClip PackS HD-24-min.acd0151571a1175ebcdf.webp",
+    "static/media/HairClip PackS HD-20-min.webp": "/static/media/HairClip PackS HD-20-min.e40da60b3547f9bb6898.webp",
+    "static/media/HairClip PackS HD-22-min.webp": "/static/media/HairClip PackS HD-22-min.0927448268ab95e6e096.webp",
+    "static/media/HairClip PackS HD-21-min.webp": "/static/media/HairClip PackS HD-21-min.a0af4489b45f4400832d.webp",
+    "static/media/HairClip PackS HD-23-min.webp": "/static/media/HairClip PackS HD-23-min.bd5289aebd17158f9139.webp",
+    "static/media/HairClip PackS HD-19-min.webp": "/static/media/HairClip PackS HD-19-min.f578858f9311730330ff.webp",
+    "static/media/2_transparent_logo_white 1.png": "/static/media/2_transparent_logo_white 1.91bc570efc077d9241f9.png",
+    "index.html": "/index.html",
+    "main.6c57161c.css.map": "/static/css/main.6c57161c.css.map",
+    "main.ee3a19b3.js.map": "/static/js/main.ee3a19b3.js.map",
+    "787.aca1eac2.chunk.js.map": "/static/js/787.aca1eac2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c57161c.css",
+    "static/js/main.ee3a19b3.js"
+  ]
+}
